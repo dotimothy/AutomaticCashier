@@ -1,0 +1,2 @@
+# AutomaticCashier
+AutomaticCashier: An Automatic Object Detection Based Currency Counter
