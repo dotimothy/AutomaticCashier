@@ -6,4 +6,5 @@ ultralytics
 huggingface_hub
 datasets
 onnxslim
+onnxruntime
 onnx
