@@ -1,2 +1,1 @@
-# AutomaticCashier
-AutomaticCashier: An Automatic Object Detection Based Currency Counter
+# 💵🪙💻 AutomaticCashier: An Automatic Object Detection Based Currency Counter 💵🪙💻

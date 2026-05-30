@@ -1,0 +1,9 @@
+# AutomaticCashierCounter requirements.txt
+numpy
+opencv-python
+torch
+ultralytics
+huggingface_hub
+datasets
+onnxslim
+onnx
